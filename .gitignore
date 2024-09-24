@@ -1,0 +1,16 @@
+# Ignorowanie plików Pythona
+__pycache__/
+*.py[cod]
+
+# Ignorowanie środowisk wirtualnych
+venv/
+.env/
+
+# Ignorowanie danych i wyników
+*.log
+*.csv
+*.json
+
+# Ignorowanie plików konfiguracyjnych
+config.py
+.DS_Store  # Dla systemu macOS
